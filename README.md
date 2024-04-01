@@ -21,7 +21,7 @@ benefits as compared to Tableau.
 # Tableau Dashboard Link:-
 https://public.tableau.com/shared/5PZDCJ6Z2?:display_count=n&:origin=viz_share_link
 
-# OUTPUT:-
+# Output:-
 
 
 https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/c2a06cdd-aacd-4f19-a832-e118b648adef
