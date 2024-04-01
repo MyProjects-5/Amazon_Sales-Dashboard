@@ -19,6 +19,11 @@ result in terms of creation of a dashboard. Microsoft Excel has less distinct
 benefits as compared to Tableau.            
 
 # OUTPUT:-
+
+
+https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/c2a06cdd-aacd-4f19-a832-e118b648adef
+
+
 ![Screenshot 2024-04-01 112743](https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/b5e18168-6792-40ce-92f2-f77361d4c3dd)
 
 
