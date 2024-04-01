@@ -11,7 +11,7 @@ Thrilled to share a dynamic visualization showcasing sales and profit KPIs, brea
 4) Monthly insights for each year.        
 5) Seamless PDF download option for easy sharing and reporting.         
 
-# conclusion:-
+# Conclusion:-
 The analysis of the thesis indicates that it is possible to convert raw data into
 meaningful information based on the analysis of the case study. From the
 analysis, it was observed that applications such as Tableau provided a good
