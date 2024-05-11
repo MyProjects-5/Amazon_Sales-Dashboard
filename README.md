@@ -23,7 +23,6 @@ https://public.tableau.com/shared/5PZDCJ6Z2?:display_count=n&:origin=viz_share_l
 
 ## Output :-
 https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/c2a06cdd-aacd-4f19-a832-e118b648adef
-
 ![Screenshot 2024-04-01 234047](https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/b8af6b43-5a30-4cae-a21a-6993da6eded2)
 
 
