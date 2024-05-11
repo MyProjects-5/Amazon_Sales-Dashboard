@@ -5,11 +5,11 @@ I am excited to share my tableau project on Amazon Sales Dashboard.
 Thrilled to share a dynamic visualization showcasing sales and profit KPIs, breaking down insights category-wise, state-wise, region-wise, and diving into the nitty-gritty month-wise for each year.
 
 ### 📌 Key Features :-               
-1) Sales and Profit KPIs at a glance.     
-2) Drill down into categories for detailed analysis.       
-3) Regional and state-wise performance breakdown.      
-4) Monthly insights for each year.        
-5) Seamless PDF download option for easy sharing and reporting.         
+- Sales and Profit KPIs at a glance.     
+- Drill down into categories for detailed analysis.       
+- Regional and state-wise performance breakdown.      
+- Monthly insights for each year.        
+- Seamless PDF download option for easy sharing and reporting.         
 
 ### 📌 Conclusion :-
 The analysis of the thesis indicates that it is possible to convert raw data into
