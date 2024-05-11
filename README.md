@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard
+# Amazon Sales Dashboar
 I am excited to share my tableau project on Amazon Sales Dashboard.
 
 ## Objective :-      
