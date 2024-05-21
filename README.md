@@ -24,7 +24,7 @@ https://public.tableau.com/shared/5PZDCJ6Z2?:display_count=n&:origin=viz_share_l
 ## DashBoard Vedio :-
 https://github.com/MyProjects-5/Amazon_Sales-Dashboard/assets/140932670/4cbbb7e6-3e70-4440-83c1-76b1fd73ece2
 
-## Output :-
+## Screenshot of the Analysis :-
 ![Screenshot 2024-04-01 234047](https://github.com/MyProjects-5/Amazon_Sales_Dashboard/assets/140932670/b8af6b43-5a30-4cae-a21a-6993da6eded2)
 
 
